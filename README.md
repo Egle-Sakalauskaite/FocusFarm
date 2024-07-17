@@ -1,0 +1,3 @@
+Dear recruiters of Vinted Data Science and Analytics Academy,
+
+Focus Farm was another Python-based desktop application I developed as a group project at TuDelft as a learning tool for the Software Engineering Methods course. It is a gamified task planner that grows a digital farm the longer the user spends studying. In this project, I worked more on the GUI by developing windows for adding and viewing the tasks (UI.py, add_task_window.py, edit_task_window.py, etc.), but besides that, my coursemate Ole and I worked together on making the database; I focused on storing information of the tasks, while he was working on storing the variables needed to track the status of the digital farm. This implementation is found in FocusFarm\project\database.py
