@@ -1,0 +1,6 @@
+pytest
+pylint-gitlab
+coverage
+pytest-cov
+decorators
+mock

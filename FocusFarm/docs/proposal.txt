@@ -1,0 +1,31 @@
+Our proposal for FarmFocus:
+
+
+
+A to do list with multiple features:
+* color coding
+* alarms (only animals that are on your farm )
+* timer 
+* daily/ weekly 
+* long-term progress measure 
+* THE FARM 
+
+
+The basic functions:
+* add tasks and descriptions 
+* edit created tasks 
+* level of difficulty 
+* view tasks/ to do's 
+* daily weekly planner 
+* color coding/ sorting 
+* focus timer 
+* reminder alarm 
+
+gamification 
+* long term process measure 
+* engaging/ funny 
+* visually pleasing (in the beginning)
+
+
+
+

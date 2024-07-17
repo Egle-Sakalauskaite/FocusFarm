@@ -1,0 +1,39 @@
+The gameplay aspect:
+
+on the screen there is just the to do list 
+
+
+There are animals:
+*chickens
+*cows
+* etc
+
+The way you take care of these animals is by checking off your tasks
+This is a reward for doing the tasks 
+
+you start with a chicken 
+the animals have a satisfaction rate 
+if you have a timed assignment and don't complete them the satisfaction goes down 
+the amount of satisfaction depends on emergency 
+
+There is a study timer:
+in the beginning of the week you put how long you want to study that week and if you complete the study time it increases the amount of satisfaction 
+
+the amount of study time does also give you more animals
+
+
+the amount of satisfaction 
+
+
+
+
+
+
+
+
+
+
+
+
+all the data is stored in a file to keep it low resources
+

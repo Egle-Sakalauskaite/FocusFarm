@@ -1,0 +1,39 @@
+The planning:
+
+weekly meeting on friday 
+working on the project together when the other groups are having meetings 
+
+week 1:
+* basic functions 
+
+-how to store the data (json, txt?) 1
+-UML
+    - what defines a task? (atributes)
+    - what can we do with the task? (methods)
+- what features do we wanna see implemented 
+- basic research on how to implement features 
+    - adding, deleting and editing 
+
+week 2:
+-reflection week 1
+
+
+
+
+week 3:
+
+
+week 4:
+
+
+
+
+
+
+
+
+
+
+
+
+
